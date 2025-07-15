@@ -1,0 +1,76 @@
+h1 {
+  text-align: center;
+  color: lightblue;
+  font-size: 40px;
+}
+html {
+  background-color: grey;
+  display: inline-block;
+}
+div {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 200px 0 200px;
+  justify-content: inline;
+  align-items: left;
+  border-color: blue;
+  background-color: rgba(234, 242, 239, 0.382);
+  border-radius: 10px;
+  border-width: 60px;
+  box-shadow: 7px 7px 10px black;
+  border: none;
+}
+ul {
+  box-shadow: none;
+}
+.ezio {
+  margin-top: 5px;
+  width: 25%;
+  height: auto;
+  border-color: rgb(0, 0, 0);
+  object-fit: cover;
+  border-width: 150px;
+
+  border-radius: 50%;
+  margin-left: 20px;
+  border: solid;
+  background-color: rgb(95, 133, 120);
+}
+ul {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+li {
+  font-size: 29px;
+  color: black;
+}
+.about {
+  font-size: 34px;
+  box-shadow: none;
+  border-radius: 0;
+  height: auto;
+}
+.bio {
+  color: rgb(0, 95, 196);
+  font-size: 42px;
+  margin-top: -5px;
+}
+.text {
+  font-size: 29px;
+  margin-top: -5px;
+  margin-left: 620px;
+  width: 750px;
+  text-align: justify;
+}
+.ig {
+  height: 48px;
+  width: 48px;
+}
+.pic {
+  display: inline-block;
+  z-index: 10;
+  
+}
+.insta {
+  margin-bottom: 4px;
+}
